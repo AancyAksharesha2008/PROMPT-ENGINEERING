@@ -552,21 +552,6 @@ Scaling plays an important role in improving the capabilities of LLMs by balanci
 
 In conclusion, Generative AI has the potential to transform education, healthcare, business and software development when it is developed and used responsibly.
 
-## 14. REFERENCES
-
-1. Vaswani, A. et al. (2017). "Attention Is All You Need." Advances in Neural Information Processing Systems. https://arxiv.org/abs/1706.03762
-
-2. Kaplan, J. et al. (2020). "Scaling Laws for Neural Language Models." OpenAI. https://arxiv.org/abs/2001.08361
-
-3. Hoffmann, J. et al. (2022). "Training Compute-Optimal Large Language Models." NeurIPS 2022. https://arxiv.org/abs/2203.15556
-
-4. OpenAI (2023). "GPT-4 Technical Report." https://arxiv.org/abs/2303.08774
-
-5. National Institute of Standards and Technology (2024). "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile." https://doi.org/10.6028/NIST.AI.600-1
-
-6. Goodfellow, I. et al. (2014). "Generative Adversarial Nets." Advances in Neural Information Processing Systems. https://arxiv.org/abs/1406.2661
-
-7. Kingma, D. P. and Welling, M. (2013). "Auto-Encoding Variational Bayes." https://arxiv.org/abs/1312.6114
 
 
 
